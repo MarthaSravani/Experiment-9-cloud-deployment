@@ -1,0 +1,13 @@
+node_modules
+build
+.dockerignore
+.git
+.gitignore
+README.md
+Dockerfile*
+npm-debug.log
+yarn.lock
+.env.local
+.env.development
+.env.test
+.vscode
